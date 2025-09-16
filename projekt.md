@@ -6,6 +6,6 @@
 console.log("Hello Projekt!")
 ```
 
-[GitHub]([https://www.tippmixpro.hu/](https://classroom.google.com/h))
+[GitHub](](https://classroom.google.com)
 
 
