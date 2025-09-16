@@ -6,6 +6,6 @@
 console.log("Hello Projekt!")
 ```
 
-[GitHub]((https://classroom.google.com)
+[GitHub](https://classroom.google.com)
 
 
